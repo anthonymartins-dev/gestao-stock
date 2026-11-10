@@ -4,6 +4,8 @@ Controlo de inventário para pequenos comércios (mercearias, lojas, oficinas, r
 saber o que há em armazém, o que está a acabar e o que encomendar. Projeto 4 de uma série de
 6 ferramentas para pequenos negócios.
 
+![Captura de ecrã](docs/painel.png)
+
 ## Funcionalidades
 
 - **Painel** com valor do stock, produtos abaixo do mínimo, atividade dos últimos 14 dias e stock por categoria
